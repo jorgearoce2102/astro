@@ -1,0 +1,1 @@
+{'pitch_start': (320, 80), 'sequenceNo': 1, 'spped': 1, 'otros': 1}

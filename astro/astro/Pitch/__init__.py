@@ -1,0 +1,2 @@
+
+from .PitchSequence import Sequence
